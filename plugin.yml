@@ -1,0 +1,12 @@
+main: com.ethanpilz.Basix.Basix
+name: Basix
+version: 1.0
+author: zimbabweh
+description: Basic commands for a server.
+commands:
+    spy:
+        description: /Spy (Player) - spy on a player
+    troll:
+        description: /Troll (Player) - troll a player
+    serverinfo:
+        description: Find info on server
